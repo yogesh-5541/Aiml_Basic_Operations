@@ -1,0 +1,8 @@
+Guidelines
+python3 detect.py --weights yolov5s.pt --source 0
+to find source run findcamera.py
+test for multithreading using threadtest.py 
+it must return "is available"
+pip install -r requirements.txt
+
+https://github.com/ikatsamenis/Cone-Detection/tree/main
